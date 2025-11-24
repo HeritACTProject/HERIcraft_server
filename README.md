@@ -27,8 +27,10 @@ Controls_map.pdf
 🗺️ Data Source
 The unique world of HERIcraft is made possible by leveraging geographic data.
 We gratefully acknowledge and thank OpenStreetMap (OSM) contributors for providing the invaluable, open-source geospatial data used to generate the server's custom map.
-
 (c) OpenStreetMap contributors.
+
+HERIcraft world were created using HeritACT's python code for generating Minecraft worlds with OpenStreetMap data. The repository can be accessed here: https://github.com/HeritACTProject/HERIcraft_py
+
 
 🔌 Server Plugins
 HERIcraft utilizes the following Bukkit/Spigot/Paper plugins to enhance the gameplay, manage the server environment, and provide essential administrative functions. We extend our sincere gratitude to all the developers and creators of these excellent tools.
